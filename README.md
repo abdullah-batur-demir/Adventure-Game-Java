@@ -25,7 +25,7 @@ Proje, modülerlik ve kodun yeniden kullanılabilirliği (reusability) ilkelerin
 
 ## 📄 Teknik Rapor ve Analiz
 Projenin sınıf tasarımlarını, tasarım gerekçelerini ve test senaryolarını içeren detaylı mühendislik raporuna buradan ulaşabilirsiniz:
-👉 **[Proje Teknik Raporu (PDF)](./reports/Abdullah_Batur_Demir_Adventure_Game_Report.pdf)**
+👉 **[Proje Teknik Raporu (PDF)](./docs/Abdullah_Batur_Demir_Adventure_Game_Report.pdf)**
 
 ## 🎮 Kullanılabilir Komutlar
 - `go [yön]` : Kuzey, güney, batı veya doğu yönlerine hareket eder.
